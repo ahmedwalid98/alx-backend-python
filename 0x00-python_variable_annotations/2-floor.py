@@ -6,4 +6,4 @@ floor number
 
 def floor(n: float) -> int:
     """ floor number"""
-    return float.__floor__(n)
+    return int(n)
